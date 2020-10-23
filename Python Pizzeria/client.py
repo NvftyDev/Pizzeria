@@ -1,8 +1,3 @@
-# CA2 Assignment
-# Name: Jiang Junheng
-# Class: DISM 1B06
-# ID: P1922420
-
 # Adminstrator Log In
 # Username = admin
 # Password = admin
